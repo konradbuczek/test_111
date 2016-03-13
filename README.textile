@@ -1,0 +1,1 @@
+Extract a series of job posting titles, links, descriptions and locations from a specific query and location criteria, from indeed.co.uk the job posting search engine.
